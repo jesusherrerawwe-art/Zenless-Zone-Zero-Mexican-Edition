@@ -94,8 +94,21 @@ pregunta si quiere salsa.
 
 ---
 
+## Candidatas de 2.x y 3.x (fichas en 05-personajes-2x-3x.md)
+
+- **Ju Fufu:** tigre de 142 cm, orgullo enorme, la que empieza la guerra sin darse cuenta.
+- **Yuzuha:** bromista con trauma, la mejor amiga que miente para no hablar de ella.
+- **Alice:** rica, simétrica, con pánico escénico, inútil para todo lo doméstico.
+- **Lucia:** la que cura, la que no pide ayuda.
+- **Aria:** idol constructo que canta en la esquina y paraliza la calle.
+- **Seed:** pilota un mech y no sabe abrazar.
+- **Claret:** ingeniera, entiende a Jesús sin explicaciones.
+- **Banyue:** coloso de 200 cm con miedo a los ratones, oro cómico puro.
+- **Dialyn:** llega con un formulario y se queda a cenar.
+- **Cissia:** la calle hecha persona.
+- **Zhao:** solo entiende el intercambio, y Jesús no cobra.
+- **Remielle:** la ladrona que pone todo de cabeza.
+
 ## Pendientes
 
-- Completar con las waifus de 2.x y 3.x (Yixuan, Ju Fufu, Yuzuha, Alice, Lucia, Orphie,
-  Magus, Seed, Remielle, Velina, Sigrid, Aria, Phoenix) cuando entre el archivo 05.
 - Definir cuáles entran al reparto principal y cuáles solo aparecen de visita.
