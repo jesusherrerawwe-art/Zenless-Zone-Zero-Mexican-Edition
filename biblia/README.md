@@ -18,7 +18,7 @@ por Cloudflare). Cada documento lleva su sección de notas de verificación.
 | [02-mundo-new-eridu.md](02-mundo-new-eridu.md) | New Eridu, Hollows, corrupción Etérea, tecnología, economía, geografía y vida cotidiana | ~1,300 |
 | [03-facciones.md](03-facciones.md) | Las 15 facciones con líder, miembros, base, ideología y uso narrativo, más los antagonistas | ~1,300 |
 | [04-personajes-1x.md](04-personajes-1x.md) | Tabla maestra de 34 agentes de 1.0 a 1.7 y fichas de la Cunning Hares, Belobog, Victoria, Calydon, Section 6, PubSec, Stars of Lyra, Obol y Mockingbird | ~2,900 |
-| [05-personajes-2x-3x.md](05-personajes-2x-3x.md) | Agentes de 2.0 a 3.3: Waifei, Yunkui, Mockingbird, Roscaelifer y los nuevos antagonistas | ver archivo |
+| [05-personajes-2x-3x.md](05-personajes-2x-3x.md) | Tabla maestra de 26 agentes de 2.0 a 3.3 y fichas por facción: Yunkui Summit, Spook Shack, Obol, Krampus, Angels of Delusion y Roscaelifer, más el bloque de antagonistas | ~3,050 |
 | [06-trama-canon.md](06-trama-canon.md) | Las tres temporadas de Phaethon's Story, capítulo por capítulo, cronología de versiones y cabos sueltos | ~1,800 |
 | [07-sistemas-y-cultura.md](07-sistemas-y-cultura.md) | Combate, atributos, anomalías, Bangboo, y toda la capa cultural de New Eridu para ambientar escenas | ~2,700 |
 | [08-guia-waifus.md](08-guia-waifus.md) | Traducción del canon a la "guerra de waifus": arma, grieta y escena ancla de cada una | ~1,100 |

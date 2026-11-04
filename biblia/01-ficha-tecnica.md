@@ -26,7 +26,7 @@ ZZZ es el tercer gran lanzamiento de miHoYo tras *Honkai Impact 3rd* y *Genshin 
 
 Requisitos orientativos (**no confirmado**): en PC, mínimo cercano a Core i5 de octava generación, 8 GB de RAM y GTX 1060; recomendado Core i7 y GTX 1660. En móvil, Android con Snapdragon 855 o superior, iOS desde A12. Varían por parche y región.
 
-El combate usa equipos de tres agentes más un Bangboo, con atributos (Físico, Fuego, Hielo, Eléctrico, Éter y, más adelante, Ánima) y especialidades (Ataque, Ruptura, Anomalía, Apoyo, Defensa). La energía se llama Battery Charge y la moneda blanda, Denny.
+El combate usa equipos de tres agentes más un Bangboo. Los atributos base son físico, fuego, hielo, eléctrico y éter, con variantes añadidas después de 1.0 (la lista completa está en 07-sistemas-y-cultura.md). Las especialidades son ataque, aturdimiento, anomalía, apoyo, defensa y ruptura. La moneda del juego es el Denny.
 
 ## 2. Modelo de negocio
 
